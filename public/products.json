@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Adicolor Classics Joggers",
+    "category": "Dress",
+    "price": "63.85",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img1.svg",
+    "status": "",
+    "star": "5"
+  },
+  {
+    "id": 2,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Bag",
+    "price": "",
+    "oldPrice": "145.5",
+    "newPrice": "130.0",
+    "image": "/images/products/img2.svg",
+    "status": "Best Seller",
+    "star": "3"
+  },
+  {
+    "id": 3,
+    "title": "Geometric print Scarf",
+    "category": "Dress",
+    "price": "53.0",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img3.svg",
+    "status": "",
+    "star": "4"
+  },
+  {
+    "id": 4,
+    "title": "Yellow Reserved Hoodie",
+    "category": "Hoodies",
+    "price": "",
+    "oldPrice": "75.0",
+    "newPrice": "63.85",
+    "image": "/images/products/img4.svg",
+    "status": "Best Seller",
+    "star": "3"
+  },
+  {
+    "id": 5,
+    "title": "Basic Dress Green",
+    "category": "Dress",
+    "price": "236.0",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img5.svg",
+    "status": "New Arrival",
+    "star": "4"
+  },
+  {
+    "id": 6,
+    "title": "Nike Air Zoom Pegasus",
+    "category": "Shoe",
+    "price": "",
+    "oldPrice": "220.0",
+    "newPrice": "198.0",
+    "image": "/images/products/img6.svg",
+    "status": "Best Seller",
+    "star": "2"
+  },
+  {
+    "id": 7,
+    "title": "Nike Repel Miler",
+    "category": "Hoodies",
+    "price": "120.5",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img7.svg",
+    "status": "",
+    "star": "1"
+  },
+  {
+    "id": 8,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Glasses",
+    "price": "160.0",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img8.svg",
+    "status": "New Arrival",
+    "star": "4"
+  },
+  {
+    "id": 9,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Bag",
+    "price": "99.0",
+    "oldPrice": "",
+    "newPrice": "",
+    "image": "/images/products/img2.svg",
+    "status": "",
+    "star": "4"
+  },
+  {
+    "id": 10,
+    "title": "Basic Dress Green",
+    "category": "Dress",
+    "price": "",
+    "oldPrice": "256.0",
+    "newPrice": "236.0",
+    "image": "/images/products/img5.svg",
+    "status": "Best Seller",
+    "star": "3"
+  },
+  {
+    "id": 11,
+    "title": "Nike Sportswear Futura Luxe",
+    "category": "Glasses",
+    "price": "",
+    "oldPrice": "185.0",
+    "newPrice": "159.0",
+    "image": "/images/products/img8.svg",
+    "status": "Best Seller",
+    "star": "5"
+  }
+]
